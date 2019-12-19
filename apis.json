@@ -1,0 +1,52 @@
+{
+    "name": "The Ocean X",
+    "description": "The premier 0x-based relayer and liquidity pool.  Trade ERC20 tokens with dramatically lower fees.  Integrate with your product and service.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/28168-theoceanx-com.jpg",
+    "tags": [
+        "blockchain",
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/the-ocean-x\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "The Ocean X",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/28168-theoceanx-com.jpg",
+            "humanURL": "https:\/\/theoceanx.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/the-ocean-x-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Documentation",
+            "url": "https:\/\/docs.theoceanx.com\/#introduction"
+        },
+        {
+            "type": "Email",
+            "url": "hello@theoceanx.com"
+        },
+        {
+            "type": "Registration",
+            "url": "https:\/\/beta.theoceanx.com\/login"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/the0ceandotcom"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/theoceanx.com"
+        }
+    ]
+}
